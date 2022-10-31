@@ -34,5 +34,4 @@ def get_noise_safety_value(noise_data):
         guided by tasks I'd usually wear hearing protection for eg. impact driver
     '''
     # need to test and tune this too.
-    # pass noise_data
     return randint(0,8)
